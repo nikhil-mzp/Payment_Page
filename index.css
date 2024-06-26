@@ -2,8 +2,9 @@
 *,
 :after,
 :before {
-  border: 0 solid #e5e7eb;
+  border: 0 solid #A020F0 ;
   box-sizing: border-box;
+  border-radius: 1.4%;
 }
 :after,
 :before {
@@ -481,6 +482,7 @@ video {
     flex-direction: row;
   }
 }
-.rightsec{
-  color: #fff;
+
+.forwidth{
+  width: fit-content;
 }
